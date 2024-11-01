@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Post Review\n"
+"POT-Creation-Date: 2021-06-02 14:22+0200\n"
+"PO-Revision-Date: 2019-04-25 16:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: MagniumThemes\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-post-recipe-admin.php:132
+msgid "Post Recipe"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:158
+msgid "Enable recipe block"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:159
+msgid "Enable to show recipe block for post and set recipe settings below."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:165
+msgid "Preparation time"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:166
+msgid "Displayed in recipe box. Ex.: \"15 min\""
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:173
+msgid "Cooking time"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:174
+msgid "Displayed in recipe box. Ex.: \"2 hours\""
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:181
+msgid "Servings"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:182
+msgid "Displayed in recipe box. Ex.: \"4\""
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:189
+msgid "Total time"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:190
+msgid "Displayed in recipe box. Ex.: \"2 hours 15 min\""
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:197
+msgid "Recipe block image"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:208
+msgid "Recipe block title"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:209
+msgid "Displayed in recipe block header."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:216
+msgid "Recipe block summary"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:217
+msgid "Short summary for recipe (HTML allowed)."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:224
+msgid "Equipment (5 items limit in FREE version)"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:225
+msgid "Equipment list (1 per line, HTML allowed)"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:232
+msgid "Ingredients (5 items limit in FREE version)"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:233
+msgid "Ingredients list (1 per line, HTML allowed in PRO version)"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:240
+msgid "Recipe special notes"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:241
+msgid "Displayed at the bottom of recipe box, HTML allowed in PRO version"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:252
+msgid "Cooking instruction step {#}"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:253
+msgid "Add cooking instruction (5 items limit in FREE version)"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:254
+msgid "Remove cooking instruction"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:263
+msgid "Cooking instruction title"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:270
+msgid "Cooking instruction text, HTML allowed in PRO version"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:285
+#: admin/class-ultimate-post-recipe-admin.php:343
+msgid "Ultimate Post Recipe"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:330
+msgid "Settings saved."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:333
+msgid "Settings are not saved."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:354
+msgid "Getting started"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:372
+msgid ""
+"<strong>Edit/Add your Posts</strong> and you will see new <strong>Post "
+"Recipe</strong> settings metabox for every post at the bottom after post "
+"content editor."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:376
+msgid "Display settings"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:379
+msgid "Single post page"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:388
+msgid "Add post recipe block after post content automatically"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:389
+msgid ""
+"PRO version only: If automatical position does not work well in your theme "
+"or you want to display block in custom position you can disable this option "
+"and place post recipe block manually:<ul><li>Add "
+"<strong>[post_recipe_block]</strong> shortcode in your post content.</"
+"li><li><strong>OR</strong> add code <strong>&lt;?php "
+"ultimate_post_recipe_display_post_recipe_block(); ?&gt;</strong> to your "
+"theme <strong>single.php</strong> template file (or other template file used "
+"in your theme for single post display).</li></ul>"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:393
+msgid "Styles settings"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:396
+msgid "Post recipe elements style"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:415
+msgid "Additional styles"
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:417
+msgid ""
+"You can restyle any element in our plugin with Custom CSS code added in "
+"<strong>Appearance > Customize > Additional CSS</strong>.<br><br>Please <a "
+"href='https://help.magniumthemes.com/hc/en-us/articles/115001505454-How-to-"
+"change-theme-elements-styles-move-or-hide-elements' target='_blank'>read "
+"this help guide</a> about using Custom CSS and feel free to <a href='https://"
+"support.magniumthemes.com/' target='_blank'>contact our support</a> if you "
+"will have any questions."
+msgstr ""
+
+#: admin/class-ultimate-post-recipe-admin.php:423
+msgid "Save Changes"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:203
+msgid "prep time"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:212
+msgid "cooking time"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:221
+msgid "servings"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:230
+msgid "total time"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:241
+msgid "Equipment"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:254
+msgid "Ingredients"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:270
+msgid "Instructions"
+msgstr ""
+
+#: public/class-ultimate-post-recipe-public.php:290
+msgid "Notes"
+msgstr ""
